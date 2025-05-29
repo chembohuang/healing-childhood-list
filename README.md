@@ -83,4 +83,8 @@ A: To restore your data:
 - [English Version](privacy-policy-en.md)
 - [中文版本](privacy-policy-zh.md)
 
+## Terms of Service
+- [English Version](terms-of-service-en.md)
+- [中文版本](terms-of-service-zh.md)
+
 
