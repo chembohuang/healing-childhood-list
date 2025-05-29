@@ -80,7 +80,7 @@ A: To restore your data:
 3. View your memories in the "Timeline" section.
 
 ## Privacy Policy
-[Link to your privacy policy]
+- [English Version](privacy-policy-en.md)
+- [中文版本](privacy-policy-zh.md)
 
-## Terms of Service
-[Link to your terms of service]
+
